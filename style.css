@@ -1,0 +1,34 @@
+.hd3{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+}
+
+body{
+    background-color: turquoise;
+}
+
+.ci:hover{
+font-size: 15px;
+background-color: cornflowerblue;
+}
+
+.hd5{
+    font-size: 13px;
+}
+
+.box{
+    position: fixed;
+    color: rgb(15, 17, 17);
+    background-color: rgb(253, 253, 253);
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+
+.img1{
+    width: 80px;
+    border-radius: 68px;
+}
